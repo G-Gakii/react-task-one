@@ -1,0 +1,21 @@
+div {
+  background-color: white;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  font-family: sans-serif;
+
+  justify-content: center;
+  align-items: center;
+  img {
+    border-radius: 50%;
+    margin-bottom: 0.3rem;
+  }
+  p {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+  }
+}
