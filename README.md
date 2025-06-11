@@ -14,17 +14,6 @@ A clean and modern profile card built with React. It showcases a user's photo, n
 - React
 - CSS
 
-## 📁 Project Structure
-
-src/
-├── components/
-│ └── ProfileCard/
-│ ├── ProfileCard.jxs
-│ └── ProfileCard.css
-├── assets/
-│ └── Gakii.jpeg
-└── App.js
-
 ## 💡 Usage
 
 ```bash
